@@ -3,7 +3,7 @@
 ### Overview:
 
 
-The Hospital Management System (HMS) is designed to streamline the operations of a hospital or healthcare facility. It aims to efficiently manage patient information, doctor schedules, appointments, billing, and other administrative functions. The system will leverage data structures to handle data efficiently, ensuring quick access, manipulation, and storage.
+The Hospital Management System (HMS) is a Java-based application designed to streamline the operations of a hospital or healthcare facility. It aims to efficiently manage patient information, doctor schedules, appointments, billing, and other administrative functions. The system will leverage data structures to handle data efficiently, ensuring quick access, manipulation, and storage.
 This project provides an excellent opportunity to implement and understand real-world applications of data structures while solving critical operational challenges in healthcare.
 
 ### Project problem:
